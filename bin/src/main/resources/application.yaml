@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: local
+    include: rest
+  application.name: ApiTest
+server.port: 8080
